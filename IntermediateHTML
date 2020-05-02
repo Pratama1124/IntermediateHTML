@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Endra Pratama</title>
+	</head>
+	
+	<body>
+		<hr>
+		<table>
+			<tr>
+				<a href="https://www.instagram.com/20pratama__/"> <img src="ENDRA FC_8157 XX"> </a>
+				<td><h4>Nama : Endra Pratama</h4>
+					<h4>NIM : 19550207111001
+					<h4>Alamat : Surodakan, RT 19 RW 06, Kec. Trenggalek, Kab. Trenggalek, Jawa Timur
+					<h4>Jurusan : Teknik Informatika
+			</tr>
+		</table>
+		
+		<hr>
+		<h3>Pengalaman Organisasi</h3>
+		<ul>
+			<li>Rasmacerta</li>
+		</ul>
+		<h3>Riwayat Pendidikan</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th> <th>Sekolah</th> <th>Tahun</th>
+                </tr>
+				<tr>
+					<th>1</th> <td>MI Plus Wali Songo</td> <th>2007 - 2012</th>
+                </tr>
+				<tr>
+					<th>2</th> <td>SMP 1 Trenggalek</td> <th>2013 - 2015</th>
+                </tr>
+				<tr>				
+					<th>3</th> <td>SMA 1 Trenggalek</td> <th>2016 - 2018</th>
+                </tr>
+				<tr>
+					<th>4</th> <td>Universitas Brawijaya</td> <th>2019 - Sekarang</th>
+                </tr>
+            </thead>
+        </table>
+		
+		<h3>Mata Kuliah Semester 1 yang Telah Diambil :</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th> <th>Nama Mata Kuliah</th> <th>SKS</th> <th>Nilai</th>
+                </tr>
+				<tr>
+					<th>1</th> <td>Sistem Digital</td> <th>3 Sks</th> <th>⭐</th>
+                </tr>
+				<tr>
+					<th>2</th> <td>Matematika Komputasi</td> <th>4 Sks</th> <th>⭐⭐⭐</th>
+                </tr>
+				<tr>				
+					<th>3</th> <td>Pemrograman Dasar</td> <th>5 Sks</th> <th>⭐⭐⭐⭐</th>
+                </tr>
+				<tr>
+					<th>4</th> <td>Pengantar Ilmu Komputer</td> <th>3 Sks</th> <th>⭐⭐⭐⭐</th>
+                </tr>
+				<tr>
+					<th>5</th> <td>Agama Islam</td> <th>2 Sks</th> <th>⭐⭐⭐⭐⭐</th>
+                </tr>
+				<tr>
+					<th>6</th> <td>Bahasa Indonesia</td> <th>2 Sks</th> <th>⭐⭐⭐⭐⭐</th>
+                </tr>
+            </thead>
+        </table>
+		
+	</body>
+</html>
